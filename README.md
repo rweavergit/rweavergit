@@ -1,6 +1,14 @@
 ### Robert Weaver 👋
 
-**`I'm a Web Developer`**
+**`Web Developer`**
+
+I'm a Front-End Web developer creating and refining my code every day. Projects are ideas that I've had that i'm proud of and build from the ground up. 
+<p align="left>
+    <a href="https://github.com/rweavergit">
+        <img src="https://custom-icon-badges.demolab.com/github/followers/ForrestKnight?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white" title="Github" />
+    </a>
+
+</p>
 <!--
 **rweavergit/rweavergit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
